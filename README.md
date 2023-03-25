@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8d671a94-d782-4b1a-b4ab-c20af3d41e71.svg)](https://wakatime.com/@8d671a94-d782-4b1a-b4ab-c20af3d41e71)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=<thezunes>&layout=compact)](https://github.com/thezunes)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thezunes&layout=compact)](https://github.com/thezunes)
 
 
 <!--
