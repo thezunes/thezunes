@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am an software engineer in love with nature, who believes in the power of innovation and technologies, where through programming languages (where I found my passion) we can create and solve solutions always believing in the positive impact on society in general.
 
 [![wakatime](https://wakatime.com/badge/user/8d671a94-d782-4b1a-b4ab-c20af3d41e71.svg)](https://wakatime.com/@8d671a94-d782-4b1a-b4ab-c20af3d41e71)
 
